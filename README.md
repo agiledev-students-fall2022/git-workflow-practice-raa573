@@ -1,2 +1,7 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+Link for Article: [Low-Code/No-Code (LCNC)](https://appmaster.io/blog/what-is-low-code-no-code-development-a-full-guide).
+
+## Implications
+Low-Code/No-Code (LCNC) is a form of software development that makes coding simple and easy. By using complex templates that any low-level programmer can access, development becomes streamlined. In this way,developers can reduce their time on programming from scratch and focus on crafting solutions that are more complex. If this type of software solution becomes the norm, businesses will not need to hire developers for basic solutions and can instead do it themselves as these templates will be very simple to use. Wix is a greate example of an LCNC application because it allows users to make websites using preexisting templates so that users with no programming experience can create websites/databases. 
+
+By using a LCNC platform, businesses can develop mobile applications rather quickly and efficiently. But most importantly, they offer a form of development that is cost-effective as businesses do not have to hire teams of developers to find solutions. And for developers, this application allows them to focus on more complex tasks with ease. 
